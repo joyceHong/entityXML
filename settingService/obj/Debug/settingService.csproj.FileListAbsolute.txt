@@ -1,0 +1,10 @@
+D:\joyce\105\importXMLToFoxpro\entityXML\settingService\obj\Debug\settingService.csprojResolveAssemblyReference.cache
+D:\joyce\105\importXMLToFoxpro\entityXML\settingService\obj\Debug\settingService.Form1.resources
+D:\joyce\105\importXMLToFoxpro\entityXML\settingService\obj\Debug\settingService.Properties.Resources.resources
+D:\joyce\105\importXMLToFoxpro\entityXML\settingService\obj\Debug\settingService.csproj.GenerateResource.Cache
+D:\joyce\105\importXMLToFoxpro\entityXML\settingService\bin\Debug\settingService.exe.config
+D:\joyce\105\importXMLToFoxpro\entityXML\settingService\bin\Debug\settingService.exe
+D:\joyce\105\importXMLToFoxpro\entityXML\settingService\bin\Debug\settingService.pdb
+D:\joyce\105\importXMLToFoxpro\entityXML\settingService\obj\Debug\settingService.exe
+D:\joyce\105\importXMLToFoxpro\entityXML\settingService\obj\Debug\settingService.pdb
+D:\joyce\105\importXMLToFoxpro\entityXML\settingService\obj\Debug\settingService.Form2.resources

@@ -1,0 +1,16 @@
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\bin\Release\ImportXMLToCooperService.exe.config
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\bin\Release\ImportXMLToCooperService.exe
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\bin\Release\ImportXMLToCooperService.pdb
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\bin\Release\entityXML.dll
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\bin\Release\writeLog.dll
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\bin\Release\ClassLibraryFoxDB.dll
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\bin\Release\Newtonsoft.Json.dll
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\bin\Release\entityXML.pdb
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\bin\Release\writeLog.pdb
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\bin\Release\ClassLibraryFoxDB.pdb
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\obj\Release\ImportXMLToCooperService.csprojResolveAssemblyReference.cache
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\obj\Release\ImportXMLToCooperService.ImportCooper.resources
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\obj\Release\ImportXMLToCooperService.ProjectInstaller.resources
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\obj\Release\ImportXMLToCooperService.csproj.GenerateResource.Cache
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\obj\Release\ImportXMLToCooperService.exe
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\obj\Release\ImportXMLToCooperService.pdb

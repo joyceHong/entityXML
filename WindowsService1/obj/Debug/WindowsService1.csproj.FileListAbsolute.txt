@@ -1,0 +1,15 @@
+D:\joyce\105\importXMLToFoxpro\entityXML\WindowsService1\bin\Debug\WindowsService1.exe.config
+D:\joyce\105\importXMLToFoxpro\entityXML\WindowsService1\bin\Debug\WindowsService1.exe
+D:\joyce\105\importXMLToFoxpro\entityXML\WindowsService1\bin\Debug\WindowsService1.pdb
+D:\joyce\105\importXMLToFoxpro\entityXML\WindowsService1\bin\Debug\entityXML.dll
+D:\joyce\105\importXMLToFoxpro\entityXML\WindowsService1\bin\Debug\writeLog.dll
+D:\joyce\105\importXMLToFoxpro\entityXML\WindowsService1\bin\Debug\ClassLibraryFoxDB.dll
+D:\joyce\105\importXMLToFoxpro\entityXML\WindowsService1\bin\Debug\Newtonsoft.Json.dll
+D:\joyce\105\importXMLToFoxpro\entityXML\WindowsService1\bin\Debug\entityXML.pdb
+D:\joyce\105\importXMLToFoxpro\entityXML\WindowsService1\bin\Debug\writeLog.pdb
+D:\joyce\105\importXMLToFoxpro\entityXML\WindowsService1\bin\Debug\ClassLibraryFoxDB.pdb
+D:\joyce\105\importXMLToFoxpro\entityXML\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+D:\joyce\105\importXMLToFoxpro\entityXML\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.Cache
+D:\joyce\105\importXMLToFoxpro\entityXML\WindowsService1\obj\Debug\WindowsService1.exe
+D:\joyce\105\importXMLToFoxpro\entityXML\WindowsService1\obj\Debug\WindowsService1.pdb
+D:\joyce\105\importXMLToFoxpro\entityXML\WindowsService1\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache

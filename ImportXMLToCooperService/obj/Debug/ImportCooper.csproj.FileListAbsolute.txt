@@ -1,0 +1,16 @@
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\bin\Debug\entityXML.dll
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\bin\Debug\writeLog.dll
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\bin\Debug\ClassLibraryFoxDB.dll
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\bin\Debug\Newtonsoft.Json.dll
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\bin\Debug\entityXML.pdb
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\bin\Debug\writeLog.pdb
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\bin\Debug\ClassLibraryFoxDB.pdb
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\obj\Debug\ImportCooper.csprojResolveAssemblyReference.cache
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\obj\Debug\ImportCooper.csproj.GenerateResource.Cache
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\obj\Debug\ImportCooper.ImportCooper.resources
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\obj\Debug\ImportCooper.ProjectInstaller.resources
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\bin\Debug\ImportCooper.exe.config
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\bin\Debug\ImportCooper.exe
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\bin\Debug\ImportCooper.pdb
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\obj\Debug\ImportCooper.exe
+D:\joyce\105\importXMLToFoxpro\entityXML\ImportXMLToCooperService\obj\Debug\ImportCooper.pdb

@@ -1,0 +1,10 @@
+D:\joyce\105\importXMLToFoxpro\entityXML\entityXML\bin\Release\entityXML.dll
+D:\joyce\105\importXMLToFoxpro\entityXML\entityXML\bin\Release\entityXML.pdb
+D:\joyce\105\importXMLToFoxpro\entityXML\entityXML\bin\Release\ClassLibraryFoxDB.dll
+D:\joyce\105\importXMLToFoxpro\entityXML\entityXML\bin\Release\Newtonsoft.Json.dll
+D:\joyce\105\importXMLToFoxpro\entityXML\entityXML\bin\Release\writeLog.dll
+D:\joyce\105\importXMLToFoxpro\entityXML\entityXML\bin\Release\ClassLibraryFoxDB.pdb
+D:\joyce\105\importXMLToFoxpro\entityXML\entityXML\bin\Release\writeLog.pdb
+D:\joyce\105\importXMLToFoxpro\entityXML\entityXML\obj\Release\entityXML.csprojResolveAssemblyReference.cache
+D:\joyce\105\importXMLToFoxpro\entityXML\entityXML\obj\Release\entityXML.dll
+D:\joyce\105\importXMLToFoxpro\entityXML\entityXML\obj\Release\entityXML.pdb
